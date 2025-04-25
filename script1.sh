@@ -1,3 +1,4 @@
+#!/bin/bashx
 echo "enter leap year:"
 read year 
 
