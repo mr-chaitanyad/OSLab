@@ -1,0 +1,2 @@
+read file
+wc $file
